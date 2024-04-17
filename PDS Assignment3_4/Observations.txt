@@ -1,0 +1,13 @@
+Observations:
+
+1.We can see that the mean Glucose value of the sample is slightly lower than the population mean Glucose
+
+2.However, the highest Glucose value in the sample is lower than the population's highest Glucose value.
+
+3.The 98th percentile of BMI in the sample is lower than the 98th percentile of BMI in the population.
+
+4.The mean BloodPressure of the bootstrap samples is very close to the population mean BloodPressure.
+
+5.The standard deviation of BloodPressure in the bootstrap samples is slightly lower than the population standard deviation.
+
+6.The 95th percentile of BloodPressure in the bootstrap samples is slightly lower to the population's 95th percentile.
